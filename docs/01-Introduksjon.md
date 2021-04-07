@@ -2,12 +2,14 @@
 
 Her vil det staa litt informasjom om dette dokumentet. 
 
-# Liste over lovverk
+# Kvalitetsforbedringsksempler fra virkerligheten
 
-Her er en liste over aktuelt lovverk for helseregisterfeltet:
+## Prosjekter innen spiseforstyrrelser
 
-* Forskrift om innsamling og behandling av helseopplysninger i Doedsaarsaksregisteret (Doedsaarsaksregisterforskriften) 
-https://lovdata.no/dokument/SF/forskrift/2001-12-21-1476
+https://psykologtidsskriftet.no/2021/03/spesialiserte-team-spiseforstyrrelser
+
+
+
 
 
 
